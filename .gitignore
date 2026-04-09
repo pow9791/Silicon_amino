@@ -1,0 +1,42 @@
+# OS / editor clutter
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.nox/
+.tox/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Logs and local runtime files
+*.log
+
+# Credentials and machine-local secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+secrets.*
+
+# Generated pipeline artifacts
+sims/input/candidates.json
+sims/output/
