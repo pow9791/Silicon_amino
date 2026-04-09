@@ -1,0 +1,6 @@
+# Concatenate POTCAR files in this order:
+cat $VASP_PP_PATH/pot_PBE/Si_pv/POTCAR >> POTCAR
+cat $VASP_PP_PATH/pot_PBE/N/POTCAR >> POTCAR
+cat $VASP_PP_PATH/pot_PBE/B/POTCAR >> POTCAR
+cat $VASP_PP_PATH/pot_PBE/H/POTCAR >> POTCAR
+cat $VASP_PP_PATH/pot_PBE/F/POTCAR >> POTCAR

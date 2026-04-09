@@ -1,0 +1,182 @@
+[
+  {
+    "candidate_id": "MSA-Si3N2PS2FCH10-i01",
+    "formation_energy": -3.5208007652312103,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si4N2PSFH10-i01",
+    "formation_energy": -3.584610603411676,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si3N2PBFH11-i01",
+    "formation_energy": -3.5375787989952077,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si4N3S2FCH12-i01",
+    "formation_energy": -3.5728662101866093,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si5N3SFH12-i01",
+    "formation_energy": -3.630341317931346,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si5N3SBH14-i01",
+    "formation_energy": -3.5306360764194746,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si4N3BFH13-i01",
+    "formation_energy": -3.5897229413898515,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si5N3S2FCH14-i01",
+    "formation_energy": -3.5350238349789973,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si6N3SFH14-i01",
+    "formation_energy": -3.5840882347860616,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si5N3BFH15-i01",
+    "formation_energy": -3.548344063429546,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si4AlN3SFH11-i01",
+    "formation_energy": -3.565515856646848,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si3AlN3BFH12-i01",
+    "formation_energy": -3.5229632716986172,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si5AlN3SFH13-i01",
+    "formation_energy": -3.5250068983088894,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si5N2PSFH12-i01",
+    "formation_energy": -3.5514772222405426,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si4N2PBFH13-i01",
+    "formation_energy": -3.5108588456990475,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si6N2PSFH14-i01",
+    "formation_energy": -3.5146878305781555,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si5N2SBFH12-i01",
+    "formation_energy": -3.5590314581792413,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si4N2B2FH13-i01",
+    "formation_energy": -3.518413081637746,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si6N2SBFH14-i01",
+    "formation_energy": -3.5213355582042105,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  },
+  {
+    "candidate_id": "MSA-Si5N2S2FH11-i01",
+    "formation_energy": -3.538172622934231,
+    "hull_distance": 0.0,
+    "is_on_hull": true,
+    "decomposes_to": [],
+    "stability_score": 0.5,
+    "coordinates": []
+  }
+]

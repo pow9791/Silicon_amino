@@ -37,6 +37,5 @@ env/
 *.der
 secrets.*
 
-# Generated pipeline artifacts
-sims/input/candidates.json
-sims/output/
+
+

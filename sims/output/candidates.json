@@ -1,0 +1,4180 @@
+[
+  {
+    "candidate_id": "MSA-Si3N2PS2FCH10-i01",
+    "display_name": "silazane phosphine dithiocarboxyl fluorosilyl",
+    "formula": "Si3N2PS2FCH10",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "P",
+      "H",
+      "H",
+      "C",
+      "S",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 20,
+    "composition": {
+      "Si": 3,
+      "N": 2,
+      "P": 1,
+      "H": 10,
+      "C": 1,
+      "S": 2,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.05,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        13.161876670808086
+      ],
+      [
+        0.0,
+        0.0,
+        15.651454255492606
+      ],
+      [
+        0.0,
+        0.0,
+        18.24852662093272
+      ],
+      [
+        0.0,
+        0.0,
+        16.055588567851853
+      ],
+      [
+        0.0,
+        0.0,
+        10.170104970685971
+      ],
+      [
+        0.0,
+        0.0,
+        11.31771978165774
+      ],
+      [
+        0.0,
+        0.0,
+        11.326687350518478
+      ],
+      [
+        0.0,
+        0.0,
+        14.081700563512037
+      ],
+      [
+        0.0,
+        0.0,
+        15.74556422679368
+      ],
+      [
+        0.0,
+        0.0,
+        15.65311933210407
+      ],
+      [
+        0.0,
+        0.0,
+        16.865755912513073
+      ],
+      [
+        0.0,
+        0.0,
+        21.811209627397705
+      ],
+      [
+        0.0,
+        0.0,
+        20.502552931657636
+      ],
+      [
+        0.0,
+        0.0,
+        14.655346688201655
+      ],
+      [
+        0.0,
+        0.0,
+        14.664314257062392
+      ],
+      [
+        0.0,
+        0.0,
+        16.57950952246039
+      ],
+      [
+        0.0,
+        0.0,
+        19.758568388974382
+      ],
+      [
+        0.0,
+        0.0,
+        17.11058819879367
+      ],
+      [
+        0.0,
+        0.0,
+        23.61542228186052
+      ],
+      [
+        0.0,
+        0.0,
+        23.624389850721258
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 2.341257818882693,
+      "Si-P": 2.991771700122115,
+      "Si-H": 1.6246684498951816,
+      "N-Si": 2.5970723654401127,
+      "N-H": 0.9915274489548018,
+      "Si-Si": 3.5626830064649866,
+      "N-C": 1.9738880043398161,
+      "P-H": 1.1520985954021379,
+      "C-S": 1.617641215936839,
+      "S-H": 1.2126365804090025,
+      "Si-F": 1.3086566957400692
+    },
+    "bond_angles": {
+      "N-Si-P": 179.997030997388,
+      "N-Si-H": 179.99554723302987,
+      "P-Si-H": 179.99617813636618,
+      "H-Si-H": 0.004479951192079323,
+      "Si-N-Si": 179.99681336171886,
+      "Si-N-H": 0.005327191324720299,
+      "N-Si-N": 0.0033953333835699765,
+      "N-Si-Si": 179.997101082523,
+      "Si-Si-H": 179.9968119248343,
+      "Si-N-C": 179.9961053969892,
+      "C-N-H": 179.99438499405622,
+      "Si-P-H": 0.0043559723883941194,
+      "H-P-H": 0.007033172508244927,
+      "N-C-S": 0.004600768732004708,
+      "S-C-S": 0.005011096757884037,
+      "C-S-H": 179.99413015914595,
+      "Si-Si-F": 0.003752633644896866,
+      "F-Si-H": 179.99473977556852
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5208007652312103,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999773703275,
+    "total_energy": -163.85168197129087,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6389278548001903,
+      "liquid_methane": 0.5526211076264199,
+      "liquid_hydrogen_sulfide": 0.5686386872370789,
+      "supercritical_ammonia": 0.6858650028954816
+    },
+    "has_phosphine": true,
+    "has_silazane": false,
+    "has_thiol": true,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane phosphine dithiocarboxyl fluorosilyl [Si3N2PS2FCH10] :: SiN(phosphine)SiN(dithiocarboxyl)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si4N2PSFH10-i01",
+    "display_name": "silazane phosphine thio-silanoic fluorosilyl",
+    "formula": "Si4N2PSFH10",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "P",
+      "H",
+      "H",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 19,
+    "composition": {
+      "Si": 4,
+      "N": 2,
+      "P": 1,
+      "H": 10,
+      "S": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        13.387399158208213
+      ],
+      [
+        0.0,
+        0.0,
+        12.869463188890204
+      ],
+      [
+        0.0,
+        0.0,
+        15.74790008209614
+      ],
+      [
+        0.0,
+        0.0,
+        16.724426231109142
+      ],
+      [
+        0.0,
+        0.0,
+        10.183523290927837
+      ],
+      [
+        0.0,
+        0.0,
+        11.259731688791357
+      ],
+      [
+        0.0,
+        0.0,
+        11.268699257652093
+      ],
+      [
+        0.0,
+        0.0,
+        14.27661855922211
+      ],
+      [
+        0.0,
+        0.0,
+        16.164614470657032
+      ],
+      [
+        0.0,
+        0.0,
+        15.507035068906672
+      ],
+      [
+        0.0,
+        0.0,
+        19.735595747683952
+      ],
+      [
+        0.0,
+        0.0,
+        18.534574048821806
+      ],
+      [
+        0.0,
+        0.0,
+        14.779686097560875
+      ],
+      [
+        0.0,
+        0.0,
+        14.788653666421613
+      ],
+      [
+        0.0,
+        0.0,
+        13.931629549681151
+      ],
+      [
+        0.0,
+        0.0,
+        17.363279096572562
+      ],
+      [
+        0.0,
+        0.0,
+        17.710928584737466
+      ],
+      [
+        0.0,
+        0.0,
+        21.64863732159947
+      ],
+      [
+        0.0,
+        0.0,
+        21.65760489046021
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 0.7472310591655056,
+      "Si-P": 3.2038758672803755,
+      "Si-H": 1.5790646147364704,
+      "N-Si": 2.6631222825464835,
+      "N-H": 1.0243343572096357,
+      "Si-Si": 3.987695665587813,
+      "P-H": 1.0806921822938875,
+      "Si-S": 1.8879959114349223,
+      "Si-F": 1.2010216988621458
+    },
+    "bond_angles": {
+      "N-Si-P": 0.006290160871915656,
+      "N-Si-H": 0.004668989577964327,
+      "P-Si-H": 179.99617579401288,
+      "H-Si-H": 0.004225690628409561,
+      "Si-N-Si": 0.0052409141299549255,
+      "Si-N-H": 179.9947856530987,
+      "N-Si-N": 179.9951669940105,
+      "N-Si-Si": 0.0041061487956588275,
+      "Si-Si-H": 179.99707316058274,
+      "Si-P-H": 0.004345599585854278,
+      "H-P-H": 0.00749789504642409,
+      "N-Si-S": 0.0037691936700349838,
+      "S-Si-H": 0.00531631892815362,
+      "Si-Si-F": 0.003702552308293784,
+      "F-Si-H": 179.99466684170145
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.584610603411676,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999835518534,
+    "total_energy": -153.65533479815517,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6435119627808019,
+      "liquid_methane": 0.5451139025761407,
+      "liquid_hydrogen_sulfide": 0.5341980940569563,
+      "supercritical_ammonia": 0.687757866279636
+    },
+    "has_phosphine": true,
+    "has_silazane": false,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane phosphine thio-silanoic fluorosilyl [Si4N2PSFH10] :: SiN(phosphine)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si3N2PBFH11-i01",
+    "display_name": "silazane phosphine borane fluorosilyl",
+    "formula": "Si3N2PBFH11",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "P",
+      "H",
+      "H",
+      "B",
+      "H",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 19,
+    "composition": {
+      "Si": 3,
+      "N": 2,
+      "P": 1,
+      "H": 11,
+      "B": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        13.395076947971877
+      ],
+      [
+        0.0,
+        0.0,
+        12.88734560874802
+      ],
+      [
+        0.0,
+        0.0,
+        15.782053137150847
+      ],
+      [
+        0.0,
+        0.0,
+        16.79639606252006
+      ],
+      [
+        0.0,
+        0.0,
+        10.187217226840515
+      ],
+      [
+        0.0,
+        0.0,
+        11.262174896381003
+      ],
+      [
+        0.0,
+        0.0,
+        11.27114246524174
+      ],
+      [
+        0.0,
+        0.0,
+        14.574667526512224
+      ],
+      [
+        0.0,
+        0.0,
+        15.517407206923652
+      ],
+      [
+        0.0,
+        0.0,
+        15.52637477578439
+      ],
+      [
+        0.0,
+        0.0,
+        19.75404225618718
+      ],
+      [
+        0.0,
+        0.0,
+        18.54901002605686
+      ],
+      [
+        0.0,
+        0.0,
+        14.785304050839377
+      ],
+      [
+        0.0,
+        0.0,
+        14.794271619700114
+      ],
+      [
+        0.0,
+        0.0,
+        13.946178451446825
+      ],
+      [
+        0.0,
+        0.0,
+        17.393785788454768
+      ],
+      [
+        0.0,
+        0.0,
+        17.7824377867107
+      ],
+      [
+        0.0,
+        0.0,
+        21.663073298834522
+      ],
+      [
+        0.0,
+        0.0,
+        21.67204086769526
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 0.7610371322965346,
+      "Si-P": 3.2078597211313618,
+      "Si-H": 1.645636816011016,
+      "N-Si": 2.894707528402826,
+      "N-H": 1.0224372834447228,
+      "Si-Si": 3.9719891190363334,
+      "N-B": 2.221728536007836,
+      "P-H": 1.0794414539708566,
+      "B-H": 0.9472234648417972,
+      "Si-F": 1.2050322301303211
+    },
+    "bond_angles": {
+      "N-Si-P": 0.006349111589377154,
+      "N-Si-H": 0.0063372191334647885,
+      "P-Si-H": 179.9961753572565,
+      "H-Si-H": 0.004234547302823821,
+      "Si-N-Si": 0.006683720738376588,
+      "Si-N-H": 179.99189790036695,
+      "N-Si-N": 179.995271287814,
+      "N-Si-Si": 0.004036836910323255,
+      "Si-Si-H": 179.9970643149909,
+      "Si-N-B": 0.0053975879870324164,
+      "B-N-H": 179.99452549965338,
+      "Si-P-H": 0.0043454051712280605,
+      "H-P-H": 0.007506582846875446,
+      "N-B-H": 0.005572376398683467,
+      "H-B-H": 0.008554409714519472,
+      "Si-Si-F": 0.0037036870039408158,
+      "F-Si-H": 179.994670160269
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5375787989952077,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999791912864,
+    "total_energy": -153.30479718090896,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6570179147947633,
+      "liquid_methane": 0.5685202997201483,
+      "liquid_hydrogen_sulfide": 0.5,
+      "supercritical_ammonia": 0.7031961409691786
+    },
+    "has_phosphine": true,
+    "has_silazane": false,
+    "has_thiol": false,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane phosphine borane fluorosilyl [Si3N2PBFH11] :: SiN(phosphine)SiN(borane_acid)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si4N3S2FCH12-i01",
+    "display_name": "silazane silazane amine dithiocarboxyl fluorosilyl",
+    "formula": "Si4N3S2FCH12",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "C",
+      "S",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 23,
+    "composition": {
+      "Si": 4,
+      "N": 3,
+      "H": 12,
+      "C": 1,
+      "S": 2,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.043478260869565216,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        17.80917794928233
+      ],
+      [
+        0.0,
+        0.0,
+        16.410257065665515
+      ],
+      [
+        0.0,
+        0.0,
+        19.044229100547955
+      ],
+      [
+        0.0,
+        0.0,
+        16.518916114634543
+      ],
+      [
+        0.0,
+        0.0,
+        17.041967036399893
+      ],
+      [
+        0.0,
+        0.0,
+        20.285017244652174
+      ],
+      [
+        0.0,
+        0.0,
+        15.674978715176344
+      ],
+      [
+        0.0,
+        0.0,
+        14.33886081370115
+      ],
+      [
+        0.0,
+        0.0,
+        15.947387162679469
+      ],
+      [
+        0.0,
+        0.0,
+        15.81467913485639
+      ],
+      [
+        0.0,
+        0.0,
+        16.981243356326576
+      ],
+      [
+        0.0,
+        0.0,
+        23.09665332087305
+      ],
+      [
+        0.0,
+        0.0,
+        21.900475170045503
+      ],
+      [
+        0.0,
+        0.0,
+        18.810268589924412
+      ],
+      [
+        0.0,
+        0.0,
+        18.819236158785152
+      ],
+      [
+        0.0,
+        0.0,
+        17.11039628080588
+      ],
+      [
+        0.0,
+        0.0,
+        20.495410789319138
+      ],
+      [
+        0.0,
+        0.0,
+        17.50882293580398
+      ],
+      [
+        0.0,
+        0.0,
+        22.16306612252812
+      ],
+      [
+        0.0,
+        0.0,
+        22.172033691388858
+      ],
+      [
+        0.0,
+        0.0,
+        22.181001260249598
+      ],
+      [
+        0.0,
+        0.0,
+        25.04347720874654
+      ],
+      [
+        0.0,
+        0.0,
+        25.052444777607278
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 1.5638149274708877,
+      "Si-H": 1.6282494029667332,
+      "N-Si": 2.9385111215673607,
+      "N-H": 1.0190114525111167,
+      "Si-Si": 4.0524242203250935,
+      "N-C": 2.180055300933393,
+      "C-S": 1.5421723350667804,
+      "S-H": 1.1665642214701855,
+      "Si-F": 1.1961781508275457
+    },
+    "bond_angles": {
+      "N-Si-N": 0.00314177043457309,
+      "N-Si-H": 179.99673229036452,
+      "H-Si-H": 0.004152532351616672,
+      "Si-N-Si": 0.005136927151779678,
+      "Si-N-H": 179.99615161607014,
+      "N-Si-Si": 179.9974670734469,
+      "Si-Si-H": 179.99712181367596,
+      "Si-N-C": 179.99654660485638,
+      "C-N-H": 179.99448422279457,
+      "N-C-S": 0.004517388330981668,
+      "S-C-S": 0.005259047461567636,
+      "C-S-H": 179.99382457500695,
+      "Si-Si-F": 0.003680291697328496,
+      "F-Si-H": 179.99470240903105
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5728662101866093,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999825570637,
+    "total_energy": -190.80838950095864,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6597180361743736,
+      "liquid_methane": 0.566377592303804,
+      "liquid_hydrogen_sulfide": 0.5597093642179352,
+      "supercritical_ammonia": 0.705834989514845
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": true,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane silazane amine dithiocarboxyl fluorosilyl [Si4N3S2FCH12] :: SiN(silazane_amine)SiN(dithiocarboxyl)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si5N3SFH12-i01",
+    "display_name": "silazane silazane amine thio-silanoic fluorosilyl",
+    "formula": "Si5N3SFH12",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 22,
+    "composition": {
+      "Si": 5,
+      "N": 3,
+      "H": 12,
+      "S": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        16.840187001504393
+      ],
+      [
+        0.0,
+        0.0,
+        15.420008586733985
+      ],
+      [
+        0.0,
+        0.0,
+        18.050489381212557
+      ],
+      [
+        0.0,
+        0.0,
+        15.7812572029912
+      ],
+      [
+        0.0,
+        0.0,
+        16.092195121152795
+      ],
+      [
+        0.0,
+        0.0,
+        19.29880660050135
+      ],
+      [
+        0.0,
+        0.0,
+        14.765226347416402
+      ],
+      [
+        0.0,
+        0.0,
+        13.578065997140522
+      ],
+      [
+        0.0,
+        0.0,
+        15.557159390384342
+      ],
+      [
+        0.0,
+        0.0,
+        14.899579988633985
+      ],
+      [
+        0.0,
+        0.0,
+        21.8837162710787
+      ],
+      [
+        0.0,
+        0.0,
+        20.63079692370904
+      ],
+      [
+        0.0,
+        0.0,
+        17.841287311866743
+      ],
+      [
+        0.0,
+        0.0,
+        17.850254880727476
+      ],
+      [
+        0.0,
+        0.0,
+        16.111173719932903
+      ],
+      [
+        0.0,
+        0.0,
+        19.480532093219747
+      ],
+      [
+        0.0,
+        0.0,
+        16.777017994380866
+      ],
+      [
+        0.0,
+        0.0,
+        21.166258995716596
+      ],
+      [
+        0.0,
+        0.0,
+        21.17522656457733
+      ],
+      [
+        0.0,
+        0.0,
+        21.18419413343807
+      ],
+      [
+        0.0,
+        0.0,
+        23.77379896241008
+      ],
+      [
+        0.0,
+        0.0,
+        23.78276653127082
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 1.479134157781121,
+      "Si-H": 1.575679748537503,
+      "N-Si": 2.6800944932259356,
+      "N-H": 1.0046315661083256,
+      "Si-Si": 3.8332268898661432,
+      "Si-S": 1.9790933932438204,
+      "Si-F": 1.2529193473696623
+    },
+    "bond_angles": {
+      "N-Si-N": 0.003316504471928915,
+      "N-Si-H": 0.004748710051427666,
+      "H-Si-H": 0.004276899042525035,
+      "Si-N-Si": 0.0052319792418819185,
+      "Si-N-H": 179.99607188580225,
+      "N-Si-Si": 179.99725263785805,
+      "Si-Si-H": 179.99699678011268,
+      "N-Si-S": 0.0038804169083138285,
+      "S-Si-H": 0.005010356150745993,
+      "Si-Si-F": 0.0036973776483250525,
+      "F-Si-H": 179.9947469946758
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.630341317931346,
+    "hull_distance": 0.0,
+    "stability_score": 0.999999986913787,
+    "total_energy": -180.61204232782293,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6645662337268099,
+      "liquid_methane": 0.5604563225654493,
+      "liquid_hydrogen_sulfide": 0.529537444757467,
+      "supercritical_ammonia": 0.7083683690599798
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane silazane amine thio-silanoic fluorosilyl [Si5N3SFH12] :: SiN(silazane_amine)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si5N3SBH14-i01",
+    "display_name": "silazane silazane amine thio-silanoic boranylsilyl",
+    "formula": "Si5N3SBH14",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "B",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 24,
+    "composition": {
+      "Si": 5,
+      "N": 3,
+      "H": 14,
+      "S": 1,
+      "B": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        17.801025558449833
+      ],
+      [
+        0.0,
+        0.0,
+        16.420199782597113
+      ],
+      [
+        0.0,
+        0.0,
+        19.109177227573372
+      ],
+      [
+        0.0,
+        0.0,
+        16.55820175173031
+      ],
+      [
+        0.0,
+        0.0,
+        17.033294943972116
+      ],
+      [
+        0.0,
+        0.0,
+        20.278855613081557
+      ],
+      [
+        0.0,
+        0.0,
+        15.66546673982889
+      ],
+      [
+        0.0,
+        0.0,
+        14.140787467569877
+      ],
+      [
+        0.0,
+        0.0,
+        16.04505222670051
+      ],
+      [
+        0.0,
+        0.0,
+        15.38747282495015
+      ],
+      [
+        0.0,
+        0.0,
+        23.318546252384962
+      ],
+      [
+        0.0,
+        0.0,
+        26.104581959627378
+      ],
+      [
+        0.0,
+        0.0,
+        25.130671303744375
+      ],
+      [
+        0.0,
+        0.0,
+        18.797069735915684
+      ],
+      [
+        0.0,
+        0.0,
+        18.806037304776424
+      ],
+      [
+        0.0,
+        0.0,
+        17.10375769075963
+      ],
+      [
+        0.0,
+        0.0,
+        20.525289591986386
+      ],
+      [
+        0.0,
+        0.0,
+        17.524086066942534
+      ],
+      [
+        0.0,
+        0.0,
+        22.157670048682316
+      ],
+      [
+        0.0,
+        0.0,
+        22.16663761754305
+      ],
+      [
+        0.0,
+        0.0,
+        22.17560518640379
+      ],
+      [
+        0.0,
+        0.0,
+        25.19292992346063
+      ],
+      [
+        0.0,
+        0.0,
+        25.20189749232136
+      ],
+      [
+        0.0,
+        0.0,
+        27.595685688997573
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 1.5665106220578338,
+      "Si-H": 1.5649927299980309,
+      "N-Si": 2.7839841327487105,
+      "N-H": 1.0057568091726559,
+      "Si-Si": 4.20936902481159,
+      "Si-S": 1.9042647591306316,
+      "Si-B": 2.786035707242416,
+      "B-H": 1.2325071926265991
+    },
+    "bond_angles": {
+      "N-Si-N": 0.0030937905010606196,
+      "N-Si-H": 0.004667492835864702,
+      "H-Si-H": 0.004312635155052275,
+      "Si-N-Si": 0.00513320170900332,
+      "Si-N-H": 179.9961542859984,
+      "N-Si-Si": 179.99752727400454,
+      "Si-Si-H": 179.99712218105302,
+      "N-Si-S": 0.0037765776611547283,
+      "S-Si-H": 0.005258907538118684,
+      "Si-Si-B": 179.99763388528987,
+      "B-Si-H": 0.0035373548439503293,
+      "Si-B-H": 179.99602451277542,
+      "H-B-H": 179.99327605519454
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5306360764194746,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999784562568,
+    "total_energy": -195.5726658340674,
+    "homo_lumo_gap": 1.4120000000000001,
+    "fermi_level": -3.794,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6533161882953663,
+      "liquid_methane": 0.5844290563306954,
+      "liquid_hydrogen_sulfide": 0.5374735432986733,
+      "supercritical_ammonia": 0.6974041114770213
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane silazane amine thio-silanoic boranylsilyl [Si5N3SBH14] :: SiN(silazane_amine)SiN(silanoic_sulfur)(boranyl_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si4N3BFH13-i01",
+    "display_name": "silazane silazane amine borane fluorosilyl",
+    "formula": "Si4N3BFH13",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "B",
+      "H",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 22,
+    "composition": {
+      "Si": 4,
+      "N": 3,
+      "H": 13,
+      "B": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        16.847657919501472
+      ],
+      [
+        0.0,
+        0.0,
+        15.437782788324684
+      ],
+      [
+        0.0,
+        0.0,
+        18.084625630915937
+      ],
+      [
+        0.0,
+        0.0,
+        15.853430378826651
+      ],
+      [
+        0.0,
+        0.0,
+        16.095392675519882
+      ],
+      [
+        0.0,
+        0.0,
+        19.299988213701084
+      ],
+      [
+        0.0,
+        0.0,
+        14.767369261348604
+      ],
+      [
+        0.0,
+        0.0,
+        13.876369078928258
+      ],
+      [
+        0.0,
+        0.0,
+        14.910218790439087
+      ],
+      [
+        0.0,
+        0.0,
+        14.919186359299825
+      ],
+      [
+        0.0,
+        0.0,
+        21.902036172529932
+      ],
+      [
+        0.0,
+        0.0,
+        20.645077235703592
+      ],
+      [
+        0.0,
+        0.0,
+        17.84674953347502
+      ],
+      [
+        0.0,
+        0.0,
+        17.85571710233576
+      ],
+      [
+        0.0,
+        0.0,
+        16.125603729474694
+      ],
+      [
+        0.0,
+        0.0,
+        19.510998969932416
+      ],
+      [
+        0.0,
+        0.0,
+        16.848845079572417
+      ],
+      [
+        0.0,
+        0.0,
+        21.166974085306116
+      ],
+      [
+        0.0,
+        0.0,
+        21.175941654166852
+      ],
+      [
+        0.0,
+        0.0,
+        21.18490922302759
+      ],
+      [
+        0.0,
+        0.0,
+        23.78807927440463
+      ],
+      [
+        0.0,
+        0.0,
+        23.797046843265363
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 1.4644452090825546,
+      "Si-H": 1.6053047787289683,
+      "N-Si": 2.9257191903862276,
+      "N-H": 1.003753018689018,
+      "Si-Si": 3.817410541613995,
+      "N-B": 1.9770612998983932,
+      "B-H": 1.038333495941198,
+      "Si-F": 1.25695893682634
+    },
+    "bond_angles": {
+      "N-Si-N": 0.0033343006914680934,
+      "N-Si-H": 179.9967031100887,
+      "H-Si-H": 0.004286037755311058,
+      "Si-N-Si": 0.005218738258369892,
+      "Si-N-H": 179.99607221102235,
+      "N-Si-Si": 179.99722358467966,
+      "Si-Si-H": 179.99698735906333,
+      "Si-N-B": 179.99614203069953,
+      "B-N-H": 179.99422402194406,
+      "N-B-H": 0.005643174103251841,
+      "H-B-H": 0.007803776310377044,
+      "Si-Si-F": 0.0036990708578012433,
+      "F-Si-H": 179.99474985552513
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5897229413898515,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999839669675,
+    "total_energy": -180.2615047105767,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6760425861407389,
+      "liquid_methane": 0.5807399902318666,
+      "liquid_hydrogen_sulfide": 0.5,
+      "supercritical_ammonia": 0.7215842785988752
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane silazane amine borane fluorosilyl [Si4N3BFH13] :: SiN(silazane_amine)SiN(borane_acid)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si5N3S2FCH14-i01",
+    "display_name": "silazane secondary silazane dithiocarboxyl fluorosilyl",
+    "formula": "Si5N3S2FCH14",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "Si",
+      "C",
+      "S",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 26,
+    "composition": {
+      "Si": 5,
+      "N": 3,
+      "C": 1,
+      "S": 2,
+      "H": 14,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.038461538461538464,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        19.067262525325148
+      ],
+      [
+        0.0,
+        0.0,
+        17.4276744642447
+      ],
+      [
+        0.0,
+        0.0,
+        20.00543359186424
+      ],
+      [
+        0.0,
+        0.0,
+        17.084397024079674
+      ],
+      [
+        0.0,
+        0.0,
+        22.206723752035593
+      ],
+      [
+        0.0,
+        0.0,
+        24.019677173521586
+      ],
+      [
+        0.0,
+        0.0,
+        25.314678858544305
+      ],
+      [
+        0.0,
+        0.0,
+        14.650974408541249
+      ],
+      [
+        0.0,
+        0.0,
+        16.190121750468233
+      ],
+      [
+        0.0,
+        0.0,
+        16.008879270621282
+      ],
+      [
+        0.0,
+        0.0,
+        17.118603645609895
+      ],
+      [
+        0.0,
+        0.0,
+        24.48102967077404
+      ],
+      [
+        0.0,
+        0.0,
+        23.380311926501587
+      ],
+      [
+        0.0,
+        0.0,
+        19.98961160714812
+      ],
+      [
+        0.0,
+        0.0,
+        19.998579176008857
+      ],
+      [
+        0.0,
+        0.0,
+        18.011760718729025
+      ],
+      [
+        0.0,
+        0.0,
+        21.40207463237912
+      ],
+      [
+        0.0,
+        0.0,
+        17.994624389250774
+      ],
+      [
+        0.0,
+        0.0,
+        25.51244182297791
+      ],
+      [
+        0.0,
+        0.0,
+        25.52140939183865
+      ],
+      [
+        0.0,
+        0.0,
+        25.530376960699382
+      ],
+      [
+        0.0,
+        0.0,
+        27.149016539941282
+      ],
+      [
+        0.0,
+        0.0,
+        27.157984108802022
+      ],
+      [
+        0.0,
+        0.0,
+        27.16695167766276
+      ],
+      [
+        0.0,
+        0.0,
+        26.550216671784842
+      ],
+      [
+        0.0,
+        0.0,
+        26.559184240645575
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 2.5666952851918197,
+      "Si-H": 1.5847964317843846,
+      "N-Si": 2.499555885204748,
+      "N-H": 0.7471568098277128,
+      "Si-Si": 4.475596078909799,
+      "N-C": 2.4334226155384258,
+      "C-S": 1.448526102003509,
+      "S-H": 1.1097243749886125,
+      "Si-F": 1.1007177442724512
+    },
+    "bond_angles": {
+      "N-Si-N": 0.002952894740037138,
+      "N-Si-H": 179.9966228699853,
+      "H-Si-H": 0.003907498596831369,
+      "Si-N-Si": 0.003413555204848201,
+      "Si-N-H": 0.004969288204963126,
+      "N-Si-Si": 179.99775899038178,
+      "Si-Si-H": 179.9973431118317,
+      "Si-N-C": 179.99696079246115,
+      "C-N-H": 179.99455555125985,
+      "N-C-S": 0.004457529069095413,
+      "S-C-S": 0.0056048353501942745,
+      "C-S-H": 179.99339921796587,
+      "Si-Si-F": 0.00365068369917576,
+      "F-Si-H": 179.99464251798514
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5350238349789973,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999789237537,
+    "total_energy": -212.8068863761206,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6518421061233894,
+      "liquid_methane": 0.57409838063975,
+      "liquid_hydrogen_sulfide": 0.5557043280597809,
+      "supercritical_ammonia": 0.6975194398885821
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": true,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane secondary silazane dithiocarboxyl fluorosilyl [Si5N3S2FCH14] :: SiN(secondary_silazane)SiN(dithiocarboxyl)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si6N3SFH14-i01",
+    "display_name": "silazane secondary silazane thio-silanoic fluorosilyl",
+    "formula": "Si6N3SFH14",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "Si",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 25,
+    "composition": {
+      "Si": 6,
+      "N": 3,
+      "S": 1,
+      "H": 14,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        17.97390308338584
+      ],
+      [
+        0.0,
+        0.0,
+        16.36972572822843
+      ],
+      [
+        0.0,
+        0.0,
+        18.9869058189974
+      ],
+      [
+        0.0,
+        0.0,
+        16.341870869409657
+      ],
+      [
+        0.0,
+        0.0,
+        21.06860499765224
+      ],
+      [
+        0.0,
+        0.0,
+        22.860495445156182
+      ],
+      [
+        0.0,
+        0.0,
+        24.1554971301789
+      ],
+      [
+        0.0,
+        0.0,
+        13.912134491828986
+      ],
+      [
+        0.0,
+        0.0,
+        15.815117412469498
+      ],
+      [
+        0.0,
+        0.0,
+        15.15753801071914
+      ],
+      [
+        0.0,
+        0.0,
+        23.25865261429326
+      ],
+      [
+        0.0,
+        0.0,
+        22.10506569259086
+      ],
+      [
+        0.0,
+        0.0,
+        18.900415368529327
+      ],
+      [
+        0.0,
+        0.0,
+        18.909382937390067
+      ],
+      [
+        0.0,
+        0.0,
+        16.953971731562497
+      ],
+      [
+        0.0,
+        0.0,
+        20.367167661509743
+      ],
+      [
+        0.0,
+        0.0,
+        17.25406733607427
+      ],
+      [
+        0.0,
+        0.0,
+        24.34784094356001
+      ],
+      [
+        0.0,
+        0.0,
+        24.35680851242075
+      ],
+      [
+        0.0,
+        0.0,
+        24.365776081281485
+      ],
+      [
+        0.0,
+        0.0,
+        25.98441566052339
+      ],
+      [
+        0.0,
+        0.0,
+        25.993383229384122
+      ],
+      [
+        0.0,
+        0.0,
+        26.00235079824486
+      ],
+      [
+        0.0,
+        0.0,
+        25.27497043787411
+      ],
+      [
+        0.0,
+        0.0,
+        25.283938006734843
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 2.447971406337184,
+      "Si-H": 1.5443215179985004,
+      "N-Si": 2.4814247620950605,
+      "N-H": 0.74822123499934,
+      "Si-Si": 4.271746795295861,
+      "Si-S": 1.902982920640511,
+      "Si-F": 1.1535869217024022
+    },
+    "bond_angles": {
+      "N-Si-N": 0.0030796765760133494,
+      "N-Si-H": 0.004658037771531824,
+      "H-Si-H": 0.004009729001578917,
+      "Si-N-Si": 0.0034452534143399587,
+      "Si-N-H": 179.99455730677383,
+      "N-Si-Si": 179.99758943304357,
+      "Si-Si-H": 179.99724518915409,
+      "N-Si-S": 0.003768257829826029,
+      "S-Si-H": 0.005263384974612896,
+      "Si-Si-F": 0.0036501416566347695,
+      "F-Si-H": 179.99469885906382
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5840882347860616,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999835088371,
+    "total_energy": -202.61053920298485,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6558124177361017,
+      "liquid_methane": 0.5691761350327461,
+      "liquid_hydrogen_sulfide": 0.5289908599459257,
+      "supercritical_ammonia": 0.6994200576726266
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane secondary silazane thio-silanoic fluorosilyl [Si6N3SFH14] :: SiN(secondary_silazane)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si5N3BFH15-i01",
+    "display_name": "silazane secondary silazane borane fluorosilyl",
+    "formula": "Si5N3BFH15",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "Si",
+      "B",
+      "H",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 25,
+    "composition": {
+      "Si": 5,
+      "N": 3,
+      "B": 1,
+      "H": 15,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        17.981440550170383
+      ],
+      [
+        0.0,
+        0.0,
+        16.387690233960733
+      ],
+      [
+        0.0,
+        0.0,
+        19.021197923892238
+      ],
+      [
+        0.0,
+        0.0,
+        16.41380162270818
+      ],
+      [
+        0.0,
+        0.0,
+        21.071536419510043
+      ],
+      [
+        0.0,
+        0.0,
+        22.86161860699376
+      ],
+      [
+        0.0,
+        0.0,
+        24.156620292016477
+      ],
+      [
+        0.0,
+        0.0,
+        14.209596551799761
+      ],
+      [
+        0.0,
+        0.0,
+        15.167111118247385
+      ],
+      [
+        0.0,
+        0.0,
+        15.176078687108122
+      ],
+      [
+        0.0,
+        0.0,
+        23.277289701677315
+      ],
+      [
+        0.0,
+        0.0,
+        22.119701056873698
+      ],
+      [
+        0.0,
+        0.0,
+        18.906001468607194
+      ],
+      [
+        0.0,
+        0.0,
+        18.914969037467934
+      ],
+      [
+        0.0,
+        0.0,
+        16.968668305629613
+      ],
+      [
+        0.0,
+        0.0,
+        20.397913232254165
+      ],
+      [
+        0.0,
+        0.0,
+        17.325809217557545
+      ],
+      [
+        0.0,
+        0.0,
+        24.34854120604936
+      ],
+      [
+        0.0,
+        0.0,
+        24.357508774910094
+      ],
+      [
+        0.0,
+        0.0,
+        24.36647634377083
+      ],
+      [
+        0.0,
+        0.0,
+        25.985115923012735
+      ],
+      [
+        0.0,
+        0.0,
+        25.994083491873468
+      ],
+      [
+        0.0,
+        0.0,
+        26.003051060734204
+      ],
+      [
+        0.0,
+        0.0,
+        25.289605802156952
+      ],
+      [
+        0.0,
+        0.0,
+        25.298573371017685
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 2.4304141622444555,
+      "Si-H": 1.5698604170214805,
+      "N-Si": 2.502891249973885,
+      "N-H": 0.7464928332591221,
+      "Si-Si": 4.256091777785077,
+      "N-B": 2.2042050709084204,
+      "B-H": 0.9619983508779928,
+      "Si-F": 1.1575886448036172
+    },
+    "bond_angles": {
+      "N-Si-N": 0.003092194535297844,
+      "N-Si-H": 179.99660501678682,
+      "H-Si-H": 0.004017685064413973,
+      "Si-N-Si": 0.003448003109226523,
+      "Si-N-H": 0.005254542121835855,
+      "N-Si-Si": 179.9975676355921,
+      "Si-Si-H": 179.99723739678694,
+      "Si-N-B": 179.996620066918,
+      "B-N-H": 179.99428505042493,
+      "N-B-H": 0.00555155584795194,
+      "H-B-H": 0.0084230236329633,
+      "Si-Si-F": 0.0036505223628206054,
+      "F-Si-H": 179.99470279397096
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.548344063429546,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999802817323,
+    "total_energy": -202.26000158573865,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6659872859956395,
+      "liquid_methane": 0.587047832658105,
+      "liquid_hydrogen_sulfide": 0.5029999640005184,
+      "supercritical_ammonia": 0.7111024895421696
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane secondary silazane borane fluorosilyl [Si5N3BFH15] :: SiN(secondary_silazane)SiN(borane_acid)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si4AlN3SFH11-i01",
+    "display_name": "silazane alumino amine thio-silanoic fluorosilyl",
+    "formula": "Si4AlN3SFH11",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "Al",
+      "N",
+      "H",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 21,
+    "composition": {
+      "Si": 4,
+      "N": 3,
+      "Al": 1,
+      "H": 11,
+      "S": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        15.010548330501958
+      ],
+      [
+        0.0,
+        0.0,
+        14.4274709433621
+      ],
+      [
+        0.0,
+        0.0,
+        17.50229839579852
+      ],
+      [
+        0.0,
+        0.0,
+        15.494705888213826
+      ],
+      [
+        0.0,
+        0.0,
+        16.34921497451071
+      ],
+      [
+        0.0,
+        0.0,
+        17.8672495114738
+      ],
+      [
+        0.0,
+        0.0,
+        16.64368863414969
+      ],
+      [
+        0.0,
+        0.0,
+        13.424689973721621
+      ],
+      [
+        0.0,
+        0.0,
+        15.446120671390851
+      ],
+      [
+        0.0,
+        0.0,
+        14.788541269640495
+      ],
+      [
+        0.0,
+        0.0,
+        21.337307468459215
+      ],
+      [
+        0.0,
+        0.0,
+        20.085849902403265
+      ],
+      [
+        0.0,
+        0.0,
+        16.308508428164203
+      ],
+      [
+        0.0,
+        0.0,
+        16.31747599702494
+      ],
+      [
+        0.0,
+        0.0,
+        15.327008285204524
+      ],
+      [
+        0.0,
+        0.0,
+        19.023254680526318
+      ],
+      [
+        0.0,
+        0.0,
+        16.552806761863867
+      ],
+      [
+        0.0,
+        0.0,
+        18.284791471895566
+      ],
+      [
+        0.0,
+        0.0,
+        18.759732098346554
+      ],
+      [
+        0.0,
+        0.0,
+        23.219884372243566
+      ],
+      [
+        0.0,
+        0.0,
+        23.2288519411043
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 1.2953349473622762,
+      "Si-Al": 1.3386666440087502,
+      "Si-H": 1.5439694535435553,
+      "N-Si": 2.572421683464312,
+      "N-H": 1.0184204199223323,
+      "Si-Si": 3.8350090726606965,
+      "Al-N": 1.5180345369630928,
+      "Al-H": 1.935576497384858,
+      "Si-S": 2.0214306976692296,
+      "Si-F": 1.2514575660559508
+    },
+    "bond_angles": {
+      "N-Si-Al": 179.99082854352403,
+      "N-Si-H": 0.0048224448953139995,
+      "Al-Si-H": 0.006125980782000236,
+      "H-Si-H": 0.0042939104956137494,
+      "Si-N-Si": 179.99602522086766,
+      "Si-N-H": 179.99452496062236,
+      "N-Si-N": 0.0032612903896946654,
+      "N-Si-Si": 179.99707977273388,
+      "Si-Si-H": 179.99699152675126,
+      "Si-Al-N": 179.99431591475962,
+      "Si-Al-H": 179.99496619677328,
+      "N-Al-H": 0.004727065657878507,
+      "Al-N-H": 179.9930385945957,
+      "H-N-H": 179.99224601490684,
+      "N-Si-S": 0.0039611506213813675,
+      "S-Si-H": 0.0048800547024912206,
+      "Si-Si-F": 0.003698676623381237,
+      "F-Si-H": 179.99473350973534
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.565515856646848,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999819040793,
+    "total_energy": -170.4254329895838,
+    "homo_lumo_gap": 2.396,
+    "fermi_level": -3.302,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6632592421083277,
+      "liquid_methane": 0.5455524762792876,
+      "liquid_hydrogen_sulfide": 0.5273760119533705,
+      "supercritical_ammonia": 0.7076635606655602
+    },
+    "has_phosphine": false,
+    "has_silazane": false,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane alumino amine thio-silanoic fluorosilyl [Si4AlN3SFH11] :: SiN(alumino_amine)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si3AlN3BFH12-i01",
+    "display_name": "silazane alumino amine borane fluorosilyl",
+    "formula": "Si3AlN3BFH12",
+    "atom_types": [
+      "Si",
+      "N",
+      "Si",
+      "N",
+      "Al",
+      "N",
+      "H",
+      "B",
+      "H",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 21,
+    "composition": {
+      "Si": 3,
+      "N": 3,
+      "Al": 1,
+      "H": 12,
+      "B": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        15.01313580189639
+      ],
+      [
+        0.0,
+        0.0,
+        14.440498091105422
+      ],
+      [
+        0.0,
+        0.0,
+        17.5348230166349
+      ],
+      [
+        0.0,
+        0.0,
+        15.577613691979343
+      ],
+      [
+        0.0,
+        0.0,
+        16.348900032946524
+      ],
+      [
+        0.0,
+        0.0,
+        17.866205191465976
+      ],
+      [
+        0.0,
+        0.0,
+        16.642494165339045
+      ],
+      [
+        0.0,
+        0.0,
+        13.740447710469962
+      ],
+      [
+        0.0,
+        0.0,
+        14.818885348509937
+      ],
+      [
+        0.0,
+        0.0,
+        14.827852917370675
+      ],
+      [
+        0.0,
+        0.0,
+        21.347799585800853
+      ],
+      [
+        0.0,
+        0.0,
+        20.090713026340456
+      ],
+      [
+        0.0,
+        0.0,
+        16.308610677774848
+      ],
+      [
+        0.0,
+        0.0,
+        16.31757824663558
+      ],
+      [
+        0.0,
+        0.0,
+        15.334884730430948
+      ],
+      [
+        0.0,
+        0.0,
+        19.049934516511986
+      ],
+      [
+        0.0,
+        0.0,
+        16.639072318846814
+      ],
+      [
+        0.0,
+        0.0,
+        18.283550739182065
+      ],
+      [
+        0.0,
+        0.0,
+        18.7585376295359
+      ],
+      [
+        0.0,
+        0.0,
+        23.224747496180765
+      ],
+      [
+        0.0,
+        0.0,
+        23.233715065041498
+      ]
+    ],
+    "bond_lengths": {
+      "Si-N": 1.264923517723262,
+      "Si-Al": 1.3357642310501348,
+      "Si-H": 1.5755784420230583,
+      "N-Si": 3.0943249255294774,
+      "N-H": 1.0179721825974637,
+      "Si-Si": 3.8129765691659543,
+      "N-B": 1.837165981509381,
+      "Al-N": 1.5173051585194521,
+      "Al-H": 1.9346507062355407,
+      "B-H": 1.0829214224703447,
+      "Si-F": 1.2570865594603973
+    },
+    "bond_angles": {
+      "N-Si-Al": 179.99073527032076,
+      "N-Si-H": 179.99529459843993,
+      "Al-Si-H": 0.006138471737195976,
+      "H-Si-H": 0.004306757387843414,
+      "Si-N-Si": 0.006087159722680617,
+      "Si-N-H": 0.005621697260758439,
+      "N-Si-N": 0.003292577707470674,
+      "N-Si-Si": 179.99703389229558,
+      "Si-Si-H": 179.99697834802902,
+      "Si-N-B": 179.99572688294322,
+      "B-N-H": 179.99419754349623,
+      "Si-Al-N": 179.99430837531222,
+      "Si-Al-H": 179.99495952530654,
+      "N-Al-H": 0.004729332828907218,
+      "Al-N-H": 179.99303633578944,
+      "H-N-H": 179.99224583836357,
+      "N-B-H": 0.005732812347201248,
+      "H-B-H": 0.00748246001506425,
+      "Si-Si-F": 0.0037010331279792013,
+      "F-Si-H": 179.9947374780312
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5229632716986172,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999776136935,
+    "total_energy": -170.07489537233766,
+    "homo_lumo_gap": 2.396,
+    "fermi_level": -3.302,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6753164263859902,
+      "liquid_methane": 0.5667548528875308,
+      "liquid_hydrogen_sulfide": 0.49642863216591304,
+      "supercritical_ammonia": 0.7215253931012677
+    },
+    "has_phosphine": false,
+    "has_silazane": false,
+    "has_thiol": false,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "silazane alumino amine borane fluorosilyl [Si3AlN3BFH12] :: SiN(alumino_amine)SiN(borane_acid)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si5AlN3SFH13-i01",
+    "display_name": "short aluminosilazane secondary silazane thio-silanoic fluorosilyl",
+    "formula": "Si5AlN3SFH13",
+    "atom_types": [
+      "Al",
+      "N",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "Si",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 24,
+    "composition": {
+      "Al": 1,
+      "N": 3,
+      "Si": 5,
+      "S": 1,
+      "H": 13,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        15.731719714354147
+      ],
+      [
+        0.0,
+        0.0,
+        17.055741529386278
+      ],
+      [
+        0.0,
+        0.0,
+        18.905085886979066
+      ],
+      [
+        0.0,
+        0.0,
+        16.081792917463982
+      ],
+      [
+        0.0,
+        0.0,
+        19.355387993586294
+      ],
+      [
+        0.0,
+        0.0,
+        21.268951482644443
+      ],
+      [
+        0.0,
+        0.0,
+        22.56395316766716
+      ],
+      [
+        0.0,
+        0.0,
+        13.627565241980609
+      ],
+      [
+        0.0,
+        0.0,
+        15.528482637009128
+      ],
+      [
+        0.0,
+        0.0,
+        14.87090323525877
+      ],
+      [
+        0.0,
+        0.0,
+        22.78712483705966
+      ],
+      [
+        0.0,
+        0.0,
+        21.541447792741707
+      ],
+      [
+        0.0,
+        0.0,
+        17.14512794694169
+      ],
+      [
+        0.0,
+        0.0,
+        15.602557484229749
+      ],
+      [
+        0.0,
+        0.0,
+        20.166945985721696
+      ],
+      [
+        0.0,
+        0.0,
+        16.90699120998388
+      ],
+      [
+        0.0,
+        0.0,
+        22.78715897762465
+      ],
+      [
+        0.0,
+        0.0,
+        22.79612654648539
+      ],
+      [
+        0.0,
+        0.0,
+        22.80509411534612
+      ],
+      [
+        0.0,
+        0.0,
+        24.423733694588023
+      ],
+      [
+        0.0,
+        0.0,
+        24.432701263448756
+      ],
+      [
+        0.0,
+        0.0,
+        24.441668832309496
+      ],
+      [
+        0.0,
+        0.0,
+        24.702384969164218
+      ],
+      [
+        0.0,
+        0.0,
+        24.711352538024954
+      ]
+    ],
+    "bond_lengths": {
+      "Al-N": 2.473845047132139,
+      "Al-H": 1.4134082325875443,
+      "N-Si": 2.3564251740537943,
+      "N-H": 1.139191168838213,
+      "Si-N": 2.8232929695150837,
+      "Si-Si": 3.882038950080595,
+      "Si-H": 1.653245540395826,
+      "Si-S": 1.9009173950285199,
+      "Si-F": 1.2456770443179543
+    },
+    "bond_angles": {
+      "N-Al-N": 0.003699268402611617,
+      "N-Al-H": 0.0035803839460367905,
+      "Al-N-Si": 179.9976236631125,
+      "Al-N-H": 0.0058415721984539605,
+      "Si-N-H": 179.99430621530018,
+      "N-Si-N": 0.003546098247630176,
+      "N-Si-Si": 179.99755246041659,
+      "N-Si-H": 0.004638585850451262,
+      "Si-Si-H": 179.99703530890758,
+      "Si-N-Si": 0.0032700979586880257,
+      "H-Si-H": 0.0042208071925668965,
+      "N-Si-S": 0.003751444970042891,
+      "S-Si-H": 0.005270616349560592,
+      "Si-Si-F": 0.0036847239549952435,
+      "F-Si-H": 179.994766326042
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5250068983088894,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999778412749,
+    "total_energy": -192.41356555941334,
+    "homo_lumo_gap": 2.396,
+    "fermi_level": -3.302,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6542887292344802,
+      "liquid_methane": 0.55648610945538,
+      "liquid_hydrogen_sulfide": 0.527077163236078,
+      "supercritical_ammonia": 0.69842362595037
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "short aluminosilazane secondary silazane thio-silanoic fluorosilyl [Si5AlN3SFH13] :: AlN(secondary_silazane)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si5N2PSFH12-i01",
+    "display_name": "phosphasilazane silazane amine thio-silanoic fluorosilyl",
+    "formula": "Si5N2PSFH12",
+    "atom_types": [
+      "Si",
+      "P",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 22,
+    "composition": {
+      "Si": 5,
+      "P": 1,
+      "N": 2,
+      "H": 12,
+      "S": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        16.881948799883514
+      ],
+      [
+        0.0,
+        0.0,
+        14.958757592625455
+      ],
+      [
+        0.0,
+        0.0,
+        18.08827951800883
+      ],
+      [
+        0.0,
+        0.0,
+        15.804882115286434
+      ],
+      [
+        0.0,
+        0.0,
+        16.116322185858717
+      ],
+      [
+        0.0,
+        0.0,
+        19.309040554447982
+      ],
+      [
+        0.0,
+        0.0,
+        14.786655242592593
+      ],
+      [
+        0.0,
+        0.0,
+        13.591189597192063
+      ],
+      [
+        0.0,
+        0.0,
+        15.566570511245294
+      ],
+      [
+        0.0,
+        0.0,
+        14.908991109494934
+      ],
+      [
+        0.0,
+        0.0,
+        21.91860112392493
+      ],
+      [
+        0.0,
+        0.0,
+        20.66477247991361
+      ],
+      [
+        0.0,
+        0.0,
+        17.88669903572197
+      ],
+      [
+        0.0,
+        0.0,
+        17.89566660458271
+      ],
+      [
+        0.0,
+        0.0,
+        16.071328533757672
+      ],
+      [
+        0.0,
+        0.0,
+        19.522018033536803
+      ],
+      [
+        0.0,
+        0.0,
+        16.79817298476309
+      ],
+      [
+        0.0,
+        0.0,
+        21.17289488816367
+      ],
+      [
+        0.0,
+        0.0,
+        21.181862457024405
+      ],
+      [
+        0.0,
+        0.0,
+        21.190830025885145
+      ],
+      [
+        0.0,
+        0.0,
+        23.807774518614643
+      ],
+      [
+        0.0,
+        0.0,
+        23.816742087475383
+      ]
+    ],
+    "bond_lengths": {
+      "Si-P": 1.9231912072580588,
+      "Si-N": 1.5245120083735957,
+      "Si-H": 1.575087570481993,
+      "P-Si": 3.129521925383374,
+      "P-H": 1.1125709411322173,
+      "Si-Si": 3.830321605916101,
+      "N-Si": 2.703205443341818,
+      "N-H": 1.161478906371391,
+      "Si-S": 1.9753809140532308,
+      "Si-F": 1.253828644011321
+    },
+    "bond_angles": {
+      "P-Si-N": 0.0030311531670171306,
+      "P-Si-H": 179.99617471626883,
+      "N-Si-H": 0.004744101571769629,
+      "H-Si-H": 0.004278952706457013,
+      "Si-P-Si": 0.003302838992978207,
+      "Si-P-H": 0.004342449467274512,
+      "P-Si-Si": 179.99765964883062,
+      "N-Si-Si": 179.99726013434767,
+      "Si-Si-H": 179.99699492184732,
+      "Si-N-Si": 0.0051826133553019346,
+      "Si-N-H": 179.99606734462697,
+      "N-Si-S": 0.0038748380321557926,
+      "S-Si-H": 0.005022121348959307,
+      "Si-Si-F": 0.0036974381721686126,
+      "F-Si-H": 179.9947476421898
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5514772222405426,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999805882275,
+    "total_energy": -175.94403222262522,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6363589380969699,
+      "liquid_methane": 0.5570917599361376,
+      "liquid_hydrogen_sulfide": 0.5329411354871977,
+      "supercritical_ammonia": 0.6803583190676162
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "phosphasilazane silazane amine thio-silanoic fluorosilyl [Si5N2PSFH12] :: SiP(silazane_amine)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si4N2PBFH13-i01",
+    "display_name": "phosphasilazane silazane amine borane fluorosilyl",
+    "formula": "Si4N2PBFH13",
+    "atom_types": [
+      "Si",
+      "P",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "B",
+      "H",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 22,
+    "composition": {
+      "Si": 4,
+      "P": 1,
+      "N": 2,
+      "H": 13,
+      "B": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        16.88718403721673
+      ],
+      [
+        0.0,
+        0.0,
+        14.974367267575376
+      ],
+      [
+        0.0,
+        0.0,
+        18.121700694461808
+      ],
+      [
+        0.0,
+        0.0,
+        15.88202514122921
+      ],
+      [
+        0.0,
+        0.0,
+        16.117935990849148
+      ],
+      [
+        0.0,
+        0.0,
+        19.309253965852875
+      ],
+      [
+        0.0,
+        0.0,
+        14.787266385077515
+      ],
+      [
+        0.0,
+        0.0,
+        13.897546407543528
+      ],
+      [
+        0.0,
+        0.0,
+        14.928715630780015
+      ],
+      [
+        0.0,
+        0.0,
+        14.93768319964075
+      ],
+      [
+        0.0,
+        0.0,
+        21.933315596206906
+      ],
+      [
+        0.0,
+        0.0,
+        20.67470757777223
+      ],
+      [
+        0.0,
+        0.0,
+        17.88969453757283
+      ],
+      [
+        0.0,
+        0.0,
+        17.898662106433566
+      ],
+      [
+        0.0,
+        0.0,
+        16.082763493846
+      ],
+      [
+        0.0,
+        0.0,
+        19.55079375296454
+      ],
+      [
+        0.0,
+        0.0,
+        16.876681089048645
+      ],
+      [
+        0.0,
+        0.0,
+        21.172804539179573
+      ],
+      [
+        0.0,
+        0.0,
+        21.181772108040306
+      ],
+      [
+        0.0,
+        0.0,
+        21.19073967690104
+      ],
+      [
+        0.0,
+        0.0,
+        23.817709616473273
+      ],
+      [
+        0.0,
+        0.0,
+        23.826677185334006
+      ]
+    ],
+    "bond_lengths": {
+      "Si-P": 1.9128167696413545,
+      "Si-N": 1.5044617998000902,
+      "Si-H": 1.6047989580039284,
+      "P-Si": 3.1473334268864317,
+      "P-H": 1.1083962262706226,
+      "Si-Si": 3.8116149017450986,
+      "N-B": 1.9844787336856822,
+      "N-H": 1.1626627767955338,
+      "N-Si": 3.1913179750037273,
+      "B-H": 1.0356530076668546,
+      "Si-F": 1.2586080184346748
+    },
+    "bond_angles": {
+      "P-Si-N": 0.0030519238580314677,
+      "P-Si-H": 179.99617936102447,
+      "N-Si-H": 179.9966932441772,
+      "H-Si-H": 0.004289779718074791,
+      "Si-P-Si": 0.0033023991128862205,
+      "Si-P-H": 0.004338291481305231,
+      "P-Si-Si": 179.99766056081202,
+      "N-Si-Si": 179.99722674001234,
+      "Si-Si-H": 179.996983756905,
+      "Si-N-B": 179.99615654459654,
+      "Si-N-H": 179.99606796412544,
+      "B-N-H": 179.99423262801398,
+      "Si-N-Si": 0.005171534053070815,
+      "N-B-H": 0.00563987103178726,
+      "H-B-H": 0.00782397452653968,
+      "Si-Si-F": 0.0036994560850404793,
+      "F-Si-H": 179.99475101177217
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5108588456990475,
+    "hull_distance": 0.0,
+    "stability_score": 0.999999976216987,
+    "total_energy": -175.59349460537902,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6480888922647485,
+      "liquid_methane": 0.577349444245187,
+      "liquid_hydrogen_sulfide": 0.5034090380832513,
+      "supercritical_ammonia": 0.6937351313591933
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "phosphasilazane silazane amine borane fluorosilyl [Si4N2PBFH13] :: SiP(silazane_amine)SiN(borane_acid)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si6N2PSFH14-i01",
+    "display_name": "phosphasilazane secondary silazane thio-silanoic fluorosilyl",
+    "formula": "Si6N2PSFH14",
+    "atom_types": [
+      "Si",
+      "P",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "Si",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 25,
+    "composition": {
+      "Si": 6,
+      "P": 1,
+      "N": 2,
+      "S": 1,
+      "H": 14,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        18.009085841460223
+      ],
+      [
+        0.0,
+        0.0,
+        15.902200254494687
+      ],
+      [
+        0.0,
+        0.0,
+        19.02124759016847
+      ],
+      [
+        0.0,
+        0.0,
+        16.36854934772137
+      ],
+      [
+        0.0,
+        0.0,
+        21.088959282735722
+      ],
+      [
+        0.0,
+        0.0,
+        22.873534702392305
+      ],
+      [
+        0.0,
+        0.0,
+        24.168536387415024
+      ],
+      [
+        0.0,
+        0.0,
+        13.932018214215603
+      ],
+      [
+        0.0,
+        0.0,
+        15.83254044062867
+      ],
+      [
+        0.0,
+        0.0,
+        15.17496103887831
+      ],
+      [
+        0.0,
+        0.0,
+        23.287937532336517
+      ],
+      [
+        0.0,
+        0.0,
+        22.132901680730022
+      ],
+      [
+        0.0,
+        0.0,
+        18.938042780207805
+      ],
+      [
+        0.0,
+        0.0,
+        18.947010349068545
+      ],
+      [
+        0.0,
+        0.0,
+        16.906339680577812
+      ],
+      [
+        0.0,
+        0.0,
+        20.40414052025152
+      ],
+      [
+        0.0,
+        0.0,
+        17.28010477371019
+      ],
+      [
+        0.0,
+        0.0,
+        24.358963266344198
+      ],
+      [
+        0.0,
+        0.0,
+        24.367930835204938
+      ],
+      [
+        0.0,
+        0.0,
+        24.376898404065674
+      ],
+      [
+        0.0,
+        0.0,
+        25.995537983307575
+      ],
+      [
+        0.0,
+        0.0,
+        26.00450555216831
+      ],
+      [
+        0.0,
+        0.0,
+        26.013473121029048
+      ],
+      [
+        0.0,
+        0.0,
+        25.30280642601327
+      ],
+      [
+        0.0,
+        0.0,
+        25.31177399487401
+      ]
+    ],
+    "bond_lengths": {
+      "Si-P": 2.106885586965536,
+      "Si-N": 2.8662858418613,
+      "Si-H": 1.543543204167805,
+      "P-Si": 3.119047335673784,
+      "P-H": 1.0041394260831247,
+      "Si-Si": 4.266689942168046,
+      "N-Si": 2.4335612192805507,
+      "N-H": 0.9115554259888192,
+      "Si-S": 1.9005222264130666,
+      "Si-F": 1.1550358516064954
+    },
+    "bond_angles": {
+      "P-Si-N": 0.0028169733265183713,
+      "P-Si-H": 179.9960984932009,
+      "N-Si-H": 0.004656140431266841,
+      "H-Si-H": 0.004012606071853986,
+      "Si-P-Si": 0.00316086664049828,
+      "Si-P-H": 0.004578567652478989,
+      "P-Si-Si": 179.99777883340337,
+      "N-Si-Si": 179.99759149152985,
+      "Si-Si-H": 179.99724257057073,
+      "Si-N-Si": 0.0034564050446696045,
+      "Si-N-H": 179.99456299030072,
+      "N-Si-S": 0.003765435169207528,
+      "S-Si-H": 0.005272002146909899,
+      "Si-Si-F": 0.003650012548983237,
+      "F-Si-H": 179.99470028902596
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5146878305781555,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999766679802,
+    "total_energy": -197.94252909778717,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6309102741071585,
+      "liquid_methane": 0.5662089770507983,
+      "liquid_hydrogen_sulfide": 0.5319858136524729,
+      "supercritical_ammonia": 0.6747276779576763
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "phosphasilazane secondary silazane thio-silanoic fluorosilyl [Si6N2PSFH14] :: SiP(secondary_silazane)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si5N2SBFH12-i01",
+    "display_name": "borasilazane silazane amine thio-silanoic fluorosilyl",
+    "formula": "Si5N2SBFH12",
+    "atom_types": [
+      "Si",
+      "B",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 22,
+    "composition": {
+      "Si": 5,
+      "B": 1,
+      "N": 2,
+      "H": 12,
+      "S": 1,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        16.863294760988435
+      ],
+      [
+        0.0,
+        0.0,
+        15.18759417682971
+      ],
+      [
+        0.0,
+        0.0,
+        18.07219264331328
+      ],
+      [
+        0.0,
+        0.0,
+        15.797873858313443
+      ],
+      [
+        0.0,
+        0.0,
+        16.103516290557778
+      ],
+      [
+        0.0,
+        0.0,
+        19.301217182913415
+      ],
+      [
+        0.0,
+        0.0,
+        14.774477914364937
+      ],
+      [
+        0.0,
+        0.0,
+        13.59029077505463
+      ],
+      [
+        0.0,
+        0.0,
+        15.567799097424954
+      ],
+      [
+        0.0,
+        0.0,
+        14.910219695674595
+      ],
+      [
+        0.0,
+        0.0,
+        21.901797330626696
+      ],
+      [
+        0.0,
+        0.0,
+        20.6478495236311
+      ],
+      [
+        0.0,
+        0.0,
+        17.866974383837086
+      ],
+      [
+        0.0,
+        0.0,
+        17.875941952697822
+      ],
+      [
+        0.0,
+        0.0,
+        16.065329041099265
+      ],
+      [
+        0.0,
+        0.0,
+        19.503813597961802
+      ],
+      [
+        0.0,
+        0.0,
+        16.79313392681255
+      ],
+      [
+        0.0,
+        0.0,
+        21.16637014926371
+      ],
+      [
+        0.0,
+        0.0,
+        21.175337718124442
+      ],
+      [
+        0.0,
+        0.0,
+        21.184305286985182
+      ],
+      [
+        0.0,
+        0.0,
+        23.790851562332136
+      ],
+      [
+        0.0,
+        0.0,
+        23.79981913119287
+      ]
+    ],
+    "bond_lengths": {
+      "Si-B": 1.675700584158724,
+      "Si-N": 1.5170486277152468,
+      "Si-H": 1.575257147525692,
+      "B-Si": 2.8845984664835687,
+      "B-H": 0.8777348642695539,
+      "Si-Si": 3.8296046873134166,
+      "N-Si": 2.702641987807225,
+      "N-H": 1.1621492223459748,
+      "Si-S": 1.9775083223703245,
+      "Si-F": 1.2539478069955976
+    },
+    "bond_angles": {
+      "B-Si-N": 0.003163510408153564,
+      "B-Si-H": 179.99601268154905,
+      "N-Si-H": 0.004746831601093153,
+      "H-Si-H": 0.004279222024969512,
+      "Si-B-Si": 0.0036855027085762253,
+      "Si-B-H": 0.005092291671633937,
+      "B-Si-Si": 179.99756208825968,
+      "N-Si-Si": 179.99725441435018,
+      "Si-Si-H": 179.99699454613625,
+      "Si-N-Si": 0.005198466132655943,
+      "Si-N-H": 179.99606948056618,
+      "N-Si-S": 0.0038781083182575274,
+      "S-Si-H": 0.005015372493048597,
+      "Si-Si-F": 0.003697608501055932,
+      "F-Si-H": 179.99474772691647
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5590314581792413,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999813077588,
+    "total_energy": -177.37622541327664,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.635285480734172,
+      "liquid_methane": 0.5593342210117802,
+      "liquid_hydrogen_sulfide": 0.5306722113930187,
+      "supercritical_ammonia": 0.6792392134271301
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "borasilazane silazane amine thio-silanoic fluorosilyl [Si5N2SBFH12] :: SiB(silazane_amine)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si4N2B2FH13-i01",
+    "display_name": "borasilazane silazane amine borane fluorosilyl",
+    "formula": "Si4N2B2FH13",
+    "atom_types": [
+      "Si",
+      "B",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "B",
+      "H",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 22,
+    "composition": {
+      "Si": 4,
+      "B": 2,
+      "N": 2,
+      "H": 13,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        16.870772365414172
+      ],
+      [
+        0.0,
+        0.0,
+        15.20537709935599
+      ],
+      [
+        0.0,
+        0.0,
+        18.10633563675295
+      ],
+      [
+        0.0,
+        0.0,
+        15.870038999544528
+      ],
+      [
+        0.0,
+        0.0,
+        16.106717935070623
+      ],
+      [
+        0.0,
+        0.0,
+        19.302400953299394
+      ],
+      [
+        0.0,
+        0.0,
+        14.77662447026404
+      ],
+      [
+        0.0,
+        0.0,
+        13.88856124702293
+      ],
+      [
+        0.0,
+        0.0,
+        14.92081661351861
+      ],
+      [
+        0.0,
+        0.0,
+        14.929784182379349
+      ],
+      [
+        0.0,
+        0.0,
+        21.92012934179147
+      ],
+      [
+        0.0,
+        0.0,
+        20.662143188450603
+      ],
+      [
+        0.0,
+        0.0,
+        17.872443360983365
+      ],
+      [
+        0.0,
+        0.0,
+        17.881410929844094
+      ],
+      [
+        0.0,
+        0.0,
+        16.079769859169986
+      ],
+      [
+        0.0,
+        0.0,
+        19.534291788682417
+      ],
+      [
+        0.0,
+        0.0,
+        16.864960598092388
+      ],
+      [
+        0.0,
+        0.0,
+        21.167086900205575
+      ],
+      [
+        0.0,
+        0.0,
+        21.17605446906631
+      ],
+      [
+        0.0,
+        0.0,
+        21.185022037927045
+      ],
+      [
+        0.0,
+        0.0,
+        23.805145227151645
+      ],
+      [
+        0.0,
+        0.0,
+        23.814112796012378
+      ]
+    ],
+    "bond_lengths": {
+      "Si-B": 1.665395266058182,
+      "Si-N": 1.5001755337759848,
+      "Si-H": 1.605028199851302,
+      "B-Si": 2.900958537396958,
+      "B-H": 0.9826236872220319,
+      "Si-Si": 3.8137937050385204,
+      "N-B": 1.9814777525215987,
+      "N-H": 1.162507531677222,
+      "N-Si": 3.1956830182287703,
+      "Si-F": 1.257986153340866
+    },
+    "bond_angles": {
+      "B-Si-N": 0.0031812819333750966,
+      "B-Si-H": 179.99601884186018,
+      "N-Si-H": 179.99669649986248,
+      "H-Si-H": 0.004288367855835712,
+      "Si-B-Si": 0.003686448780574631,
+      "Si-B-H": 0.005087607430107685,
+      "B-Si-Si": 179.99756393826095,
+      "N-Si-Si": 179.99722543859227,
+      "Si-Si-H": 179.99698511369266,
+      "Si-N-B": 179.9961507304823,
+      "Si-N-H": 179.99606979955948,
+      "B-N-H": 179.9942290328764,
+      "Si-N-Si": 0.005185535710087013,
+      "N-B-H": 0.005641195709922397,
+      "H-B-H": 0.007815777529095402,
+      "Si-Si-F": 0.003699313131991702,
+      "F-Si-H": 179.99475057657017
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.518413081637746,
+    "hull_distance": 0.0,
+    "stability_score": 0.999999977098546,
+    "total_energy": -177.0256877960304,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6470286127725263,
+      "liquid_methane": 0.5796094313892395,
+      "liquid_hydrogen_sulfide": 0.5011363616798187,
+      "supercritical_ammonia": 0.6926243349934772
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": false,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "borasilazane silazane amine borane fluorosilyl [Si4N2B2FH13] :: SiB(silazane_amine)SiN(borane_acid)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si6N2SBFH14-i01",
+    "display_name": "borasilazane secondary silazane thio-silanoic fluorosilyl",
+    "formula": "Si6N2SBFH14",
+    "atom_types": [
+      "Si",
+      "B",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "Si",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 25,
+    "composition": {
+      "Si": 6,
+      "B": 1,
+      "N": 2,
+      "S": 1,
+      "H": 14,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        17.99370917905315
+      ],
+      [
+        0.0,
+        0.0,
+        16.133673232272056
+      ],
+      [
+        0.0,
+        0.0,
+        19.00604332888539
+      ],
+      [
+        0.0,
+        0.0,
+        16.356635798593196
+      ],
+      [
+        0.0,
+        0.0,
+        21.080030635259742
+      ],
+      [
+        0.0,
+        0.0,
+        22.867786004721484
+      ],
+      [
+        0.0,
+        0.0,
+        24.162787689744214
+      ],
+      [
+        0.0,
+        0.0,
+        13.923064372939853
+      ],
+      [
+        0.0,
+        0.0,
+        15.824660257487382
+      ],
+      [
+        0.0,
+        0.0,
+        15.167080855737025
+      ],
+      [
+        0.0,
+        0.0,
+        23.274809978429438
+      ],
+      [
+        0.0,
+        0.0,
+        22.120372347883958
+      ],
+      [
+        0.0,
+        0.0,
+        18.921588428340375
+      ],
+      [
+        0.0,
+        0.0,
+        18.930555997201107
+      ],
+      [
+        0.0,
+        0.0,
+        16.903676417942926
+      ],
+      [
+        0.0,
+        0.0,
+        20.387748165275735
+      ],
+      [
+        0.0,
+        0.0,
+        17.26843899628192
+      ],
+      [
+        0.0,
+        0.0,
+        24.35404783245018
+      ],
+      [
+        0.0,
+        0.0,
+        24.363015401310918
+      ],
+      [
+        0.0,
+        0.0,
+        24.37198297017165
+      ],
+      [
+        0.0,
+        0.0,
+        25.990622549413565
+      ],
+      [
+        0.0,
+        0.0,
+        25.9995901182743
+      ],
+      [
+        0.0,
+        0.0,
+        26.00855768713504
+      ],
+      [
+        0.0,
+        0.0,
+        25.290277093167212
+      ],
+      [
+        0.0,
+        0.0,
+        25.299244662027945
+      ]
+    ],
+    "bond_lengths": {
+      "Si-B": 1.8600359467810925,
+      "Si-N": 2.867864493249394,
+      "Si-H": 1.543870388359795,
+      "B-Si": 2.8723700966133343,
+      "B-H": 0.7700031856708698,
+      "Si-Si": 4.268766649544048,
+      "N-Si": 2.4346946165331853,
+      "N-H": 0.9118031976887231,
+      "Si-S": 1.901595884547529,
+      "Si-F": 1.1544376305454804
+    },
+    "bond_angles": {
+      "B-Si-N": 0.0029372643904983457,
+      "B-Si-H": 179.9959326664352,
+      "N-Si-H": 0.004656960066907567,
+      "H-Si-H": 0.004011417658752357,
+      "Si-B-Si": 0.003505554772625277,
+      "Si-B-H": 0.005448427416521394,
+      "B-Si-Si": 179.9976859845397,
+      "N-Si-Si": 179.99759058254784,
+      "Si-Si-H": 179.99724364880524,
+      "Si-N-Si": 0.003451548155332231,
+      "Si-N-H": 179.99456042430694,
+      "N-Si-S": 0.00376666035901961,
+      "S-Si-H": 0.005268238702434038,
+      "Si-Si-F": 0.003650069964009298,
+      "F-Si-H": 179.99469969935018
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.5213355582042105,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999774307576,
+    "total_energy": -199.37472228843856,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.6299626572913966,
+      "liquid_methane": 0.5681866697668299,
+      "liquid_hydrogen_sulfide": 0.5299893401555819,
+      "supercritical_ammonia": 0.67374124330949
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "borasilazane secondary silazane thio-silanoic fluorosilyl [Si6N2SBFH14] :: SiB(secondary_silazane)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  },
+  {
+    "candidate_id": "MSA-Si5N2S2FH11-i01",
+    "display_name": "thiosilazane silazane amine thio-silanoic fluorosilyl",
+    "formula": "Si5N2S2FH11",
+    "atom_types": [
+      "Si",
+      "S",
+      "Si",
+      "N",
+      "N",
+      "Si",
+      "H",
+      "Si",
+      "S",
+      "H",
+      "Si",
+      "F",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "n_atoms": 21,
+    "composition": {
+      "Si": 5,
+      "S": 2,
+      "N": 2,
+      "H": 11,
+      "F": 1
+    },
+    "oxygen_fraction": 0.0,
+    "carbon_fraction": 0.0,
+    "metal_center": "None",
+    "positions": [
+      [
+        0.0,
+        0.0,
+        14.299906142264993
+      ],
+      [
+        0.0,
+        0.0,
+        12.807280556485614
+      ],
+      [
+        0.0,
+        0.0,
+        15.782990034498352
+      ],
+      [
+        0.0,
+        0.0,
+        16.472812015904672
+      ],
+      [
+        0.0,
+        0.0,
+        16.377191818813806
+      ],
+      [
+        0.0,
+        0.0,
+        19.014607478709962
+      ],
+      [
+        0.0,
+        0.0,
+        14.999482889893166
+      ],
+      [
+        0.0,
+        0.0,
+        13.958580661773413
+      ],
+      [
+        0.0,
+        0.0,
+        15.832465757921263
+      ],
+      [
+        0.0,
+        0.0,
+        15.174886356170907
+      ],
+      [
+        0.0,
+        0.0,
+        20.043112202360025
+      ],
+      [
+        0.0,
+        0.0,
+        18.907664543083317
+      ],
+      [
+        0.0,
+        0.0,
+        15.420904759398756
+      ],
+      [
+        0.0,
+        0.0,
+        15.429872328259492
+      ],
+      [
+        0.0,
+        0.0,
+        17.219340719834186
+      ],
+      [
+        0.0,
+        0.0,
+        17.337860280217992
+      ],
+      [
+        0.0,
+        0.0,
+        20.733924384373257
+      ],
+      [
+        0.0,
+        0.0,
+        20.742891953233993
+      ],
+      [
+        0.0,
+        0.0,
+        20.75185952209473
+      ],
+      [
+        0.0,
+        0.0,
+        22.04169901292362
+      ],
+      [
+        0.0,
+        0.0,
+        22.05066658178436
+      ]
+    ],
+    "bond_lengths": {
+      "Si-S": 1.6832553409636146,
+      "Si-N": 1.3835538289775666,
+      "Si-H": 1.5660684218246237,
+      "S-Si": 2.975709478012739,
+      "Si-Si": 4.260122167861672,
+      "N-Si": 2.575823507013708,
+      "N-H": 1.1213785966169798,
+      "Si-F": 1.135447659276707
+    },
+    "bond_angles": {
+      "S-Si-N": 179.99434446300444,
+      "S-Si-H": 0.005367162926100244,
+      "N-Si-H": 0.004633547725007887,
+      "H-Si-H": 0.004045222964037359,
+      "Si-S-Si": 0.003844739530672312,
+      "S-Si-Si": 179.99772421433678,
+      "N-Si-Si": 0.004726700490201086,
+      "Si-Si-H": 179.99722927799405,
+      "Si-N-Si": 179.99653821390203,
+      "Si-N-H": 179.99574921045738,
+      "N-Si-S": 0.0037330476278944974,
+      "Si-Si-F": 0.003684198692957785,
+      "F-Si-H": 179.99463313824722
+    },
+    "coordination_geometry": "unknown",
+    "metal_coordination_number": 0,
+    "formation_energy": -3.538172622934231,
+    "hull_distance": 0.0,
+    "stability_score": 0.9999999792529783,
+    "total_energy": -167.38722508161885,
+    "homo_lumo_gap": 2.164,
+    "fermi_level": -3.418,
+    "magnetic_moment": 0.0,
+    "solvent_stability": {
+      "liquid_ammonia": 0.634769443354471,
+      "liquid_methane": 0.548011320090275,
+      "liquid_hydrogen_sulfide": 0.566562017926843,
+      "supercritical_ammonia": 0.6782918164324119
+    },
+    "has_phosphine": false,
+    "has_silazane": true,
+    "has_thiol": false,
+    "has_silanoic": true,
+    "warnings": [
+      "\u26a0\ufe0f STABILITY WARNING: Si-H bonds are pyrophoric in O\u2082 atmosphere. Strictly stable only in reducing solvents.",
+      "\u26a0\ufe0f STABILITY WARNING: Silicon-containing molecules will hydrolyze violently upon contact with H\u2082O. Si-O bond formation (452 kJ/mol) drives spontaneous combustion/hydrolysis."
+    ],
+    "smiles": "thiosilazane silazane amine thio-silanoic fluorosilyl [Si5N2S2FH11] :: SiS(silazane_amine)SiN(silanoic_sulfur)(fluoro_silyl)",
+    "passed_screening": true
+  }
+]
