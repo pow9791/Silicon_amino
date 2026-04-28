@@ -1,6 +1,7 @@
 # Aluminosilicon Amino Acid Discovery Pipeline — Summary
 
 ## Overview
+note this is simplified and probably needs some editing
 
 This pipeline generates and screens stable metallosilicon amino acid analogs for **prosilicon biological frameworks** in warm (>30°C), reducing, low-oxygen environments.
 
